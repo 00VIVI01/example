@@ -3,3 +3,4 @@ class A:
         print("X(" + str(self.x) + ";" + str(self.y))
 
 a = A()
+#no comments
