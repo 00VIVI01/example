@@ -3,4 +3,5 @@ class A:
         print("X(" + str(self.x) + ";" + str(self.y))
 
 a = A()
-print(a.coord(3, 1))
+print(a.coord(3, 1))print(a.coord(3, 1))
+#done
